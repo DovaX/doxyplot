@@ -1,6 +1,3 @@
-# doxyplot
-Plotting wrapper around matplotlib for easy plotting.
-
 # Doxyplot
 
 Doxyplot is a plotting wrapper around matplotlib for easy plotting.
