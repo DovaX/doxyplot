@@ -1,8 +1,6 @@
 # doxyplot
 Plotting wrapper around matplotlib for easy plotting.
 
-![An example plot image](example.png)
-
 # Doxyplot
 
 Doxyplot is a plotting wrapper around matplotlib for easy plotting.
@@ -38,7 +36,7 @@ plot.construct_plot("Doxyplot", "Time", "Velocity",save="export.png")
 ```
 
 
-![alt text](https://github.com/DovaX/doxyplot/blob/master/example.png?raw=true)
+![alt text](https://github.com/DovaX/doxyplot/blob/master/export.png?raw=true)
 
 
 ## Contributing
